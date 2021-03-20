@@ -11,13 +11,13 @@ The user can then either specify a stimulation setting in terms of stimulating c
 Alternatively, 'Set Random' button can be used to generate a random stimulation setting
 ![Slide3](https://user-images.githubusercontent.com/66339367/111886373-8345db00-89a3-11eb-816c-d084e8e1693f.jpeg)
 
-Once the stimulation settings have been selected, the 'Update Settings' is used to apply them to the unknown objective
+Once the stimulation settings have been selected, the 'Update Settings' is used to apply them to the unknown objective.
 ![Slide4](https://user-images.githubusercontent.com/66339367/111886376-8345db00-89a3-11eb-8564-1f310c2e48ce.jpeg)
 
-The stimulation setting is added to the log along with a placeholder for the tremor value
+The stimulation setting is added to the log along with a placeholder for the tremor value.
 ![Slide5](https://user-images.githubusercontent.com/66339367/111886377-8345db00-89a3-11eb-85c7-341c856356af.jpeg)
 
-The output of the objective is displayed on the tremor gauge. This is intentionally difficult to read to create a natural measurement noise
+The output of the objective is displayed on the tremor gauge. This is intentionally difficult to read to create a natural measurement noise.
 ![Slide6](https://user-images.githubusercontent.com/66339367/111886378-83de7180-89a3-11eb-9b90-fe097b90d8f0.jpeg)
 
 The reading of the gauge is then entered in the Tremor Measurment field.
@@ -41,9 +41,9 @@ The settings are then updated,
 and the process is repeated,
 ![Slide13](https://user-images.githubusercontent.com/66339367/111886385-850f9e80-89a3-11eb-92bc-582fda44b468.jpeg)
 
-until convergine on a solution with an estimated low tremor.
+until converging on a solution with an estimated low tremor.
 ![Slide14](https://user-images.githubusercontent.com/66339367/111886386-850f9e80-89a3-11eb-995f-40986fc6a77c.jpeg)
 
-The *actual* optimum of the objective function can be seen by seleting the button in the bottom left
+The *actual* optimum of the objective function can be seen by seleting the button in the bottom left.
 ![Slide15](https://user-images.githubusercontent.com/66339367/111886387-850f9e80-89a3-11eb-94fe-d87b6ebbf320.jpeg)
 
