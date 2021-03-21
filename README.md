@@ -1,6 +1,6 @@
 # optimization_assistant
 
-The Optimization Assisstant is a proof-of-concept simulation to demonstrate how data-driven optimization can be used as an interactive recommender system to facilitate DBS programming. The goal is to identify the minimum of an unknown randomly generated objective function by iteratively selecting stimulation settings and recording the result. *This software is not intended or approved for clinical use*
+The Optimization Assisstant is a proof-of-concept simulation to demonstrate how data-driven optimization can be used as an interactive recommender system to facilitate DBS programming. The goal is to identify the minimum of an unknown randomly generated objective function by iteratively selecting stimulation settings and recording the result. *This software is not intended or approved for clinical use*.
 
 To start the Optimization Assistant, run 'start_optimization_assistant.m'. This script will add the necessary code and utilies to your path and start the application.
 ![Slide1](https://user-images.githubusercontent.com/66339367/111886360-7c1ecd00-89a3-11eb-95e6-cf8071b25924.jpeg)
