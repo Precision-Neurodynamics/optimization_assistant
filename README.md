@@ -5,7 +5,7 @@ The Optimization Assisstant is a proof-of-concept simulation to demonstrate how 
 To start the Optimization Assistant, run 'start_optimization_assistant.m'. This script will add the necessary code and utilies to your path and start the application.
 ![Slide1](https://user-images.githubusercontent.com/66339367/111886360-7c1ecd00-89a3-11eb-95e6-cf8071b25924.jpeg)
 
-The user can then either specify a stimulation setting in terms of stimulating cathode and anode, the ampltitude, and the frequency. Setting the cathode and anode to the same value is considered Pulse width is currently not implemented
+The user can then either specify a stimulation setting in terms of stimulating cathode and anode, the ampltitude, and the frequency. Setting the cathode and anode to the same value is interpreted as monopolar stimulation between the cathode and the case. Pulse width is currently not implemented
 ![Slide2](https://user-images.githubusercontent.com/66339367/111886372-82ad4480-89a3-11eb-86cb-8079bed28544.jpeg)
 
 Alternatively, 'Set Random' button can be used to generate a random stimulation setting
