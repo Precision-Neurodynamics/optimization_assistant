@@ -26,7 +26,7 @@ The reading of the gauge is then entered in the Tremor Measurement field.
 Once the tremor value is entered, the 'Submit' button updates the histoy log and returns to the stimulation settings on the left.
 ![Slide8](https://user-images.githubusercontent.com/66339367/111886380-83de7180-89a3-11eb-9264-e2f2049e04de.jpeg)
 
-After an initial set of random or hand-selected stimulation settings evaluated (the 'burn-in' samples), the optimization algorithm will have enough data to *start* estimating the best stimulation setting. However, this estimate will improve as additional data is collected.
+After an initial set of random or hand-selected stimulation settings have been evaluated (the 'burn-in' samples), the optimization algorithm will have enough data to *start* estimating the best stimulation setting. However, this estimate will improve as additional data is collected.
 ![Slide9](https://user-images.githubusercontent.com/66339367/111886381-84770800-89a3-11eb-85d1-2f55dc179318.jpeg)
 
 To immediately test the estimated optimal stimulation setting, select the 'Set Estimated Best' button.
