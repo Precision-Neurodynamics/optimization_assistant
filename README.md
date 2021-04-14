@@ -47,4 +47,4 @@ until converging on a solution with a low estimated tremor.
 The *actual* optimum of the objective function can be seen by seleting the button in the bottom left.
 ![Slide15](https://user-images.githubusercontent.com/66339367/111886387-850f9e80-89a3-11eb-94fe-d87b6ebbf320.jpeg)
 
-*This repository will be made private on April 1st, 2021, but access will be available upon reasonable request*
+*This repository will be made private on April 30th, 2021, but access will be available upon reasonable request*
